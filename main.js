@@ -27,7 +27,7 @@ const projects = [
   
       software: "ArchiCAD 2020",
   
-      description: "Design of 829m^2 WareHouse with Offices",
+      description: "Design of 829.5m^2 WareHouse with Offices",
   
      
   
